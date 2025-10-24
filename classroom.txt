@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+    <html lang ="en">
+        <head>
+            <title>MESS MENU</title>
+        </head>
+    </html>
+    <body>
+        <caption><h1>"FOODIE HUB"</h1></caption>
+        <table border ="1" cellpadding ="8" cellspacing ="0">
+            <th colspan ="3"><h2>BREAKFAST</h2></th>
+            <tr>
+                <th><b><h3>S.no</h3></b></th>
+                <th><b><h3>DISH</h3></b></th>
+                <th><b><h3>PRICE</h3></b></th>
+            </tr>
+            <tr>
+                <td><b>1</b></td>
+                <td><b>Veg Sandwich</b></td>
+                <td><b>60</b></td>
+            </tr>
+            <tr>
+                <td><b>2</b></td>
+                <td><b>Masala Dosa</b></td>
+                <td><b>80</b></td>
+            </tr>
+            <tr>
+                <td><b>3</b></td>
+                <td><b>Poha</b></td>
+                <td><b>50</b></td>
+            </tr>
+            <tr>
+                <td><b>4</b></td>
+                <td><b>Uttapam</b></td>
+                <td><b>70</b></td>
+            </tr>
+            <tr>
+                <td><b>5</b></td>
+                <td><b>Poori Sabzi</b></td>
+                <td><b>80</b></td>
+            </tr>
+            <tr>
+                <td><b>6</b></td>
+                <td><b>Omelette with Toast</b></td>
+                <td><b>90</b></td>
+            </tr>
+            <tr>
+                <td><b>7</b></td>
+                <td><b>French Toast</b></td>
+                <td><b>100</b></td>
+            </tr>
+            <tr>
+                <td><b>8</b></td>
+                <td><b>Aloo Paratha with Curd</b></td>
+                <td><b>70</b></td>
+            </tr>
+            <tr>
+                <td><b>9</b></td>
+                <td><b>Pancakes with Honey</b></td>
+                <td><b>110</b></td>
+            </tr>
+            <tr>
+                <td><b>10</b></td>
+                <td><b>Chole Bhature</b></td>
+                <td><b>90</b></td>
+            </tr>
+        </table>
+        <table border ="1" cellpadding ="8" cellspacing ="0">
+            <th colspan ="3"><h2>LUNCH</h2></th>
+        <tr>
+            <th><b><h3>S.no</h3></b></th>
+            <th><b><h3>DISHES</h3></b></th>
+            <th><b><h3>PRICE</h3></B></th>
+        </tr>
+        <tr>
+            <td><b>1</b></td>
+            <td><b>Paneer Butter Masala</b></td>
+            <td><b>150</b></td>
+        </tr>
+         <tr>
+            <td><b>2</b></td>
+            <td><b>Kadai Paneer</b></td>
+            <td><b>150</b></td>
+        </tr>
+         <tr>
+            <td><b>3</b></td>
+            <td><b>Palak Paneer</b></td>
+            <td><b>140</b></td>
+        </tr>
+         <tr>
+            <td><b>4</b></td>
+            <td><b>Shahi Paneer</b></td>
+            <td><b>160</b></td>
+        </tr>
+         <tr>
+            <td><b>5</b></td>
+            <td><b>Matar Paneer</b></td>
+            <td><b>130</b></td>
+        </tr>
+         <tr>
+            <td><b>6</b></td>
+            <td><b>Mashroom Masala</b></td>
+            <td><b>140</b></td>
+        </tr>
+         <tr>
+            <td><b>7</b></td>
+            <td><b>Veg Korma</b></td>
+            <td><b>130</b></td>
+        </tr>
+         <tr>
+            <td><b>8</b></td>
+            <td><b>Mix veg Curry</b></td>
+            <td><b>120</b></td>
+        </tr>
+         <tr>
+            <td><b>9</b></td>
+            <td><b>Aloo Gobi</b></td>
+            <td><b>110</b></td>
+        </tr>
+         <tr>
+            <td><b>10</b></td>
+            <td><b>Bhindi Masala</b></td>
+            <td><b>110</b></td>
+        </tr>
+        </table>
+        <table border ="1" cellspacing ="0" cellpadding ="8">
+            <th colspan ="3"><h2>DINNER</h2></th>
+            <tr>
+                <th><b><h3>S.no</h3></b></th>
+                <th><b><h3>DISHES</h3></b></th>
+                <th><b><h3>PRICE</h3></b></th>
+            </tr>
+            <tr>
+                <td><b>1</b></td>
+                <td><b>Paneer Do Pyaza</b></td>
+                <td><b>150</b></td>
+            </tr>
+            <tr>
+                <td><b>2</b></td>
+                <td><b>Kadai Mashroom</b></td>
+                <td><b>140</b></td>
+            </tr>
+            <tr>
+                <td><b>3</b></td>
+                <td><b>Veg Handi</b></td>
+                <td><b>130</b></td>
+            </tr>
+            <tr>
+                <td><b>4</b></td>
+                <td><b>Paneer Lababdar</b></td>
+                <td><b>160</b></td>
+            </tr>
+            <tr>
+                <td><b>5</b></td>
+                <td><b>Aloo Matar</b></td>
+                <td><b>110</b></td>
+            </tr>
+            <tr>
+                <td><b>6</b></td>
+                <td><b>Bhindi Matar</b></td>
+                <td><b>100</b></td>
+            </tr>
+            <tr>
+                <td><b>7</b></td>
+                <td><b>Tawa Paneer</b></td>
+                <td><b>160</b></td>
+            </tr>
+            <tr>
+                <td><b>8</b></td>
+                <td><b>Chana Masala</b></td>
+                <td><b>120</b></td>
+            </tr>
+            <tr>
+                <td><b>9</b></td>
+                <td><b>Methi Malai Paneer</b></td>
+                <td><b>170</b></td>
+            </tr>
+            <tr>
+                <td><b>10</b></td>
+                <td><b>Corn Palak</b></td>
+                <td><b>130</b></td>
+            </tr>
+        </table>
+        <table border ="1" cellpadding ="8" cellspacing ="0">
+            <th colspan ="3"><h2>BREADS</h2></th>
+            <tr>
+                <th><b><h3>S.no</h3></b></th>
+                <th><b><h3>BREADS</h3></b></th>
+                <th><b><h3>PRICE</h3></b></th>
+            </tr>
+            <tr>
+                <td><b>1</b></td>
+                <td><b>Tandoori Roti</b></td>
+                <td><b>20</b></td>
+            </tr>
+            <tr>
+                <td><b>2</b></td>
+                <td><b>Butter Roti</b></td>
+                <td><b>25</b></td>
+            </tr>
+            <tr>
+                <td><b>3</b></td>
+                <td><b>Plain Naan</b></td>
+                <td><b>30</b></td>
+            </tr>
+            <tr>
+                <td><b>4</b></td>
+                <td><b>Butter Naan</b></td>
+                <td><b>40</b></td>
+            </tr>
+            <tr>
+                <td><b>5</b></td>
+                <td><b>Garlic Naan</b></td>
+                <td><b>50</b></td>
+            </tr>
+            <tr>
+                <td><b>6</b></td>
+                <td><b>Laccha Paratha</b></td>
+                <td><b>50</b></td>
+            </tr>
+            <tr>
+                <td><b>7</b></td>
+                <td><b>Plain Paratha</b></td>
+                <td><b>40</b></td>
+            </tr>
+            <tr>
+                <td><b>8</b></td>
+                <td><b>Tawa Roti</b></td>
+                <td><b>15</b></td>
+            </tr>
+            <tr>
+                <td><b>9</b></td>
+                <td><b>Missi Roti</b></td>
+                <td><b>35</b></td>
+            </tr>
+            <tr>
+                <td><b>10</b></td>
+                <td><b>Roomali Roti</b></td>
+                <td><b>25<tr>
+            </tr>
+        </table>
+        <table border ="1" cellpadding ="8" cellspacing ="0">
+            <th colspan ="3"><h2>BEVERAGES</h2></th>
+            <tr>
+                <th><b><h3>S.no</h3></b></th>
+                <th><b><h3>DRINKS</h3></b></th>
+                <th><b><h3>PRICE</h3></b></th>
+            </tr>
+            <tr>
+                <td><b>1</b></td>
+                <td><b>Masala Chai</b></td>
+                <td><b>30</b></td>
+            </tr>
+            <tr>
+                <td><b>2</b></td>
+                <td><b>Cold Coffee</b></td>
+                <td><b>80</b></td>
+            </tr>
+            <tr>
+                <td><b>3</b></td>
+                <td><b>Hot Coffee</b></td>
+                <td><b>70</b></td>
+            </tr>
+            <tr>
+                <td><b>4</b></td>
+                <td><b>Fresh Lime Soda</b></td>
+                <td><b>60</b></td>
+            </tr>
+            <tr>
+                <td><b>5</b></td>
+                <td><b>Mango Shake</b></td>
+                <td><b>90</b></td>
+            </tr>
+            <tr>
+                <td><b>6</b></td>
+                <td><b>Banana Shake</b></td>
+                <td><b>80</b></td>
+            </tr>
+            <tr>
+                <td><b>7</b></td>
+                <td><b>Chocolate Shake</b></td>
+                <td><b>100</b></td>
+            </tr>
+            <tr>
+                <td><b>8<b></td>
+                <td><b>Vergin Mojito</b></td>
+                <td><b>350</b></td>
+            </tr>
+            <tr>
+                <td><b>9</b></td>
+                <td><b>Green tea</b></td>
+                <td><b>50<b></td>
+            </tr>
+            <tr>
+                <td><b>10</b></td>
+                <td><b>Cold Brew Coffee</b></td>
+                <td><b>100</b></td>
+            </tr>
+        </table>
+
+    </body>
